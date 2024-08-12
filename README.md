@@ -1,5 +1,7 @@
 # Hangman Game
 
+<img src="https://github.com/Duvan-Vanegas/Hanging/blob/main/src/img.png" alt="Hagman"/>
+
 **Hangman** is a classic game where the player attempts to guess a secret word letter by letter. This project is developed using **React** and **JavaScript**.
 
 ## Project Description
