@@ -1,7 +1,5 @@
 # Hangman Game
 
-![Hanging]("Hanging\src\img.png")
-
 **Hangman** is a classic game where the player attempts to guess a secret word letter by letter. This project is developed using **React** and **JavaScript**.
 
 ## Project Description
